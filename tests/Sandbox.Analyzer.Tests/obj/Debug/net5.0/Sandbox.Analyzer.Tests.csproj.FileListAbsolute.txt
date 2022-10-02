@@ -212,3 +212,8 @@ C:\Dev\OSS\Sandbox.Analyzer\tests\Sandbox.Analyzer.Tests\obj\Debug\net5.0\refint
 C:\Dev\OSS\Sandbox.Analyzer\tests\Sandbox.Analyzer.Tests\obj\Debug\net5.0\Sandbox.Analyzer.Tests.pdb
 C:\Dev\OSS\Sandbox.Analyzer\tests\Sandbox.Analyzer.Tests\obj\Debug\net5.0\Sandbox.Analyzer.Tests.genruntimeconfig.cache
 C:\Dev\OSS\Sandbox.Analyzer\tests\Sandbox.Analyzer.Tests\obj\Debug\net5.0\ref\Sandbox.Analyzer.Tests.dll
+C:\Dev\OSS\Sandbox.Analyzer\tests\Sandbox.Analyzer.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Dev\OSS\Sandbox.Analyzer\tests\Sandbox.Analyzer.Tests\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Dev\OSS\Sandbox.Analyzer\tests\Sandbox.Analyzer.Tests\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev\OSS\Sandbox.Analyzer\tests\Sandbox.Analyzer.Tests\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Dev\OSS\Sandbox.Analyzer\tests\Sandbox.Analyzer.Tests\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll

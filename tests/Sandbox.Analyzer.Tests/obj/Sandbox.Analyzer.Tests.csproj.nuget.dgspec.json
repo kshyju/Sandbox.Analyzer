@@ -49,11 +49,11 @@
             },
             "Microsoft.CodeAnalysis.CSharp.Workspaces": {
               "target": "Package",
-              "version": "[3.11.0, )"
+              "version": "[4.3.1, )"
             },
             "Microsoft.CodeAnalysis.Common": {
               "target": "Package",
-              "version": "[3.11.0, )"
+              "version": "[4.3.1, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -128,11 +128,13 @@
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.3.1, )"
+              "version": "[17.3.2, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[1.2.0, )"
+              "version": "[3.1.2, )"
             },
             "xunit": {
               "target": "Package",
