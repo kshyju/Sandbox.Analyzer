@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Sandbox.Analyzer.Tests
+build_property.ProjectDir = C:\Dev\OSS\Sandbox.Analyzer\tests\Sandbox.Analyzer.Tests\

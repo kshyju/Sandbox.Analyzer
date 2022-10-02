@@ -1,0 +1,12 @@
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\bin\Debug\net6.0\Sandbox.PlaygroundLibrary.deps.json
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\bin\Debug\net6.0\Sandbox.PlaygroundLibrary.dll
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\bin\Debug\net6.0\Sandbox.PlaygroundLibrary.pdb
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\obj\Debug\net6.0\Sandbox.PlaygroundLibrary.csproj.AssemblyReference.cache
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\obj\Debug\net6.0\Sandbox.PlaygroundLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\obj\Debug\net6.0\Sandbox.PlaygroundLibrary.AssemblyInfoInputs.cache
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\obj\Debug\net6.0\Sandbox.PlaygroundLibrary.AssemblyInfo.cs
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\obj\Debug\net6.0\Sandbox.PlaygroundLibrary.csproj.CoreCompileInputs.cache
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\obj\Debug\net6.0\Sandbox.PlaygroundLibrary.dll
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\obj\Debug\net6.0\refint\Sandbox.PlaygroundLibrary.dll
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\obj\Debug\net6.0\Sandbox.PlaygroundLibrary.pdb
+C:\Dev\OSS\Sandbox.Analyzer\Sandbox.PlaygroundLibrary\obj\Debug\net6.0\ref\Sandbox.PlaygroundLibrary.dll
