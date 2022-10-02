@@ -358,4 +358,4 @@ MigrationBackup/
 .DS_Store
 # Entity framework sample
 Migrations/
-local.settings.json
+**/*.suo
